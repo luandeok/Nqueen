@@ -1,6 +1,6 @@
 import copy
 
-
+#a new line
 def judge(queenLocs):
     """
     判断给定的位置列表下，是否满足皇后共存
